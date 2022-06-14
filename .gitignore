@@ -1,0 +1,5 @@
+# No nos interesa subir la carpeta de node modules porque basta con volver a instalar la dependencias
+node_modules/
+
+# Estamos ignorando el contenido de la carpeta salida
+salida/*.txt 
